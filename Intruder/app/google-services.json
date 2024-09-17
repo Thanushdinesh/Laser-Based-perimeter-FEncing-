@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237641177626",
+    "project_id": "intruder-974b3",
+    "storage_bucket": "intruder-974b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237641177626:android:338a00198fb012e1fe8fa3",
+        "android_client_info": {
+          "package_name": "com.Intruder.mce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYKgnVYOFVjbX7lzOGIhYUxsdAT1TPmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
